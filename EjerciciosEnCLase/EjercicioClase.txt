@@ -1,0 +1,82 @@
+using System;
+using System.Collections.Generic;
+
+
+    public class Heroe
+    {
+        //Utilizar boo, fateTime, float, int, double, string
+        public string Name { get; set; }
+        public int Ki { get; set; }
+
+        // public Heroe[] Hijos{ get; set; } //Hijos vector - Lo puedes hacer de estas tres formas
+        // public Collection<Heroe> Hijos{ get; set; } //Hijos coleccion - Lo puedes hacer de estas tres formas
+
+        public List<Heroe> Hijos { get; set; } //Hijos lista - Lo puedes hacer de estas tres formas
+        public List<Heroe> Enemigos { get; set; }
+        public Fase Fase { get; set; }
+        public Ubicacion Ubicacion { get; set; }
+        public Caracter Caracter { get; set; }
+
+    }
+    public enum Caracter 
+    { 
+        Jovial,
+        Enojado,
+        Violento,
+
+    }
+    
+
+    public class Ubicacion
+    {
+        public int PosicionX { get; set; }
+        public int PosicionY { get; set; }
+        public int PosicionZ { get; set; }
+        public DateTime PosicionTiempo { get; set; }
+    }
+
+
+    public class Fase
+    { 
+        public string Name { get; set; }
+    }
+    
+
+    public class Villano
+    {
+        public string Name { get; set; }
+        public int Ki { get; set; }
+    }
+    
+
+
+/*
+
+ Heroe heroe = new Heroe(); 
+ heroe.Name = "Goku";
+ heroe.Ki = 100000;
+
+/*** Villano  ***\
+ Villano villano = new Heroe(); 
+ villano.Name = "Goku";
+ villano.Ki = 100000;
+ 
+ */
+
+ /**********  PROYECTO INTEGRADOR ***********/
+ /*
+    ******** Utilizar la consola ¡¡¡ PRESENTAR DENTRO DE UNA SEMANA !!!***********
+
+    |== Debe de ingresarse en una List<Tuple<int, Elemento>>  //data; ==|  ¡¡ELEMENTO => HEROE!!
+    ¿¿¿ ===== interface TOXml(); <- Lo que usaremos; ==== ????
+
+    • Mostrar -> Mostrar todos los elementos que se hayan ingresado.
+    • Ingresar[ Elemento ] -> Ingresar un elemento.
+    • Borrar[ nombre ] -> Borrar un elemento en funcion del nombre.
+    • Actualizar[ id ][campo][ valor ].
+    • Filtrar[ campo ][ valor ] -> Filtrar y mostrar los campos cuyocampo sea igual al [ valor ]   -  Ejemplo => Quiero que filtres por el nombre[ campo ] al que se llame Goku[ valor ]!!
+    • Guardar -> Guardar en un arhivo XMl.
+    • Recuperar -> Archivo XML
+    • Borrar archivo
+ */
+ /**********  PROYECTO INTEGRADOR ***********/

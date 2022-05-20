@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\bin\Debug\net5.0\OrdenarNumerosLibreria.deps.json
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\bin\Debug\net5.0\OrdenarNumerosLibreria.dll
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\bin\Debug\net5.0\ref\OrdenarNumerosLibreria.dll
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\bin\Debug\net5.0\OrdenarNumerosLibreria.pdb
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\obj\Debug\net5.0\OrdenarNumerosLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\obj\Debug\net5.0\OrdenarNumerosLibreria.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\obj\Debug\net5.0\OrdenarNumerosLibreria.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\obj\Debug\net5.0\OrdenarNumerosLibreria.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\obj\Debug\net5.0\OrdenarNumerosLibreria.dll
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\obj\Debug\net5.0\ref\OrdenarNumerosLibreria.dll
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\obj\Debug\net5.0\OrdenarNumerosLibreria.pdb
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\bin\Debug\net5.0\EntidadesBiblioteca.dll
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\bin\Debug\net5.0\EntidadesBiblioteca.pdb
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\obj\Debug\net5.0\OrdenarNumerosLibreria.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\OrdenarNumerosLibreria\obj\Debug\net5.0\OrdenarNumerosLibreria.csproj.CopyComplete

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Arboles_nodos_clase_24_06_2021/1.0.0": {
+        "runtime": {
+          "Arboles_nodos_clase_24_06_2021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arboles_nodos_clase_24_06_2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

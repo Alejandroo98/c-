@@ -1,0 +1,11 @@
+1. Para crear un proyecto de consola ->  dotnet new console -o mifirstapp 
+2. Instalar dependencias, preparar a mi proyecto para ejecutarlo -> dotnet restore
+3. Para ejecutar la app -> dotnet run
+
+
+
+======= App web ======
+1•Crear un proyecto para app web -> dotnet new mvc -au None -o aspnetapp ( mvc app web, el -au es para decirle que no quiero autenticacion, -o es para agregarle un nombre )
+
+2• -> dotnet restore
+3• dotnet run

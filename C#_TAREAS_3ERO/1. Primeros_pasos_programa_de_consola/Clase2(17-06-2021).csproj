@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Clase2_17_06_2021_</RootNamespace>
+    <AssemblyName>Clase217-06-2021</AssemblyName>
+  </PropertyGroup>
+
+</Project>

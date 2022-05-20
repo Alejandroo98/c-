@@ -1,0 +1,10 @@
+entity funcionando,
+aplication dbcontext,
+un unicon contrler vacioness, consulte tal tal tal
+con las entidades bien definidas, 
+
+CRM
+
+
+• Add-Migration nombreMigracion
+• Update-Database

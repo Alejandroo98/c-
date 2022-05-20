@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InterfacesReview_clase_30_06_2021/1.0.0": {
+        "dependencies": {
+          "EntidadesBiblioteca": "1.0.0",
+          "OrdenarNumerosLibreria": "1.0.0"
+        },
+        "runtime": {
+          "InterfacesReview_clase_30_06_2021.dll": {}
+        }
+      },
+      "EntidadesBiblioteca/1.0.0": {
+        "runtime": {
+          "EntidadesBiblioteca.dll": {}
+        }
+      },
+      "OrdenarNumerosLibreria/1.0.0": {
+        "dependencies": {
+          "EntidadesBiblioteca": "1.0.0"
+        },
+        "runtime": {
+          "OrdenarNumerosLibreria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfacesReview_clase_30_06_2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesBiblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrdenarNumerosLibreria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

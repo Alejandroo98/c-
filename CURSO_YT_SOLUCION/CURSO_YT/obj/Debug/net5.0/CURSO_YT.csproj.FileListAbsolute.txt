@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\bin\Debug\net5.0\CURSO_YT.exe
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\bin\Debug\net5.0\CURSO_YT.deps.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\bin\Debug\net5.0\CURSO_YT.runtimeconfig.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\bin\Debug\net5.0\CURSO_YT.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\bin\Debug\net5.0\CURSO_YT.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\bin\Debug\net5.0\ref\CURSO_YT.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\bin\Debug\net5.0\CURSO_YT.pdb
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\obj\Debug\net5.0\CURSO_YT.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\obj\Debug\net5.0\CURSO_YT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\obj\Debug\net5.0\CURSO_YT.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\obj\Debug\net5.0\CURSO_YT.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\obj\Debug\net5.0\CURSO_YT.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\obj\Debug\net5.0\CURSO_YT.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\obj\Debug\net5.0\ref\CURSO_YT.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\obj\Debug\net5.0\CURSO_YT.pdb
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\CURSO_YT\obj\Debug\net5.0\CURSO_YT.genruntimeconfig.cache

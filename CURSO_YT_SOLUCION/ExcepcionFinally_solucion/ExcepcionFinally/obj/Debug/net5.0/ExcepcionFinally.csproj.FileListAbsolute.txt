@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\bin\Debug\net5.0\ExcepcionFinally.exe
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\bin\Debug\net5.0\ExcepcionFinally.deps.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\bin\Debug\net5.0\ExcepcionFinally.runtimeconfig.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\bin\Debug\net5.0\ExcepcionFinally.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\bin\Debug\net5.0\ExcepcionFinally.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\bin\Debug\net5.0\ref\ExcepcionFinally.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\bin\Debug\net5.0\ExcepcionFinally.pdb
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\obj\Debug\net5.0\ExcepcionFinally.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\obj\Debug\net5.0\ExcepcionFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\obj\Debug\net5.0\ExcepcionFinally.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\obj\Debug\net5.0\ExcepcionFinally.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\obj\Debug\net5.0\ExcepcionFinally.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\obj\Debug\net5.0\ExcepcionFinally.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\obj\Debug\net5.0\ref\ExcepcionFinally.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\obj\Debug\net5.0\ExcepcionFinally.pdb
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\ExcepcionFinally_solucion\ExcepcionFinally\obj\Debug\net5.0\ExcepcionFinally.genruntimeconfig.cache

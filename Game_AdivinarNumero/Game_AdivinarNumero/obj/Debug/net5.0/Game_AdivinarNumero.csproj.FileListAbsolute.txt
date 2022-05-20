@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\bin\Debug\net5.0\Game_AdivinarNumero.exe
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\bin\Debug\net5.0\Game_AdivinarNumero.deps.json
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\bin\Debug\net5.0\Game_AdivinarNumero.runtimeconfig.json
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\bin\Debug\net5.0\Game_AdivinarNumero.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\bin\Debug\net5.0\Game_AdivinarNumero.dll
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\bin\Debug\net5.0\ref\Game_AdivinarNumero.dll
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\bin\Debug\net5.0\Game_AdivinarNumero.pdb
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\obj\Debug\net5.0\Game_AdivinarNumero.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\obj\Debug\net5.0\Game_AdivinarNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\obj\Debug\net5.0\Game_AdivinarNumero.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\obj\Debug\net5.0\Game_AdivinarNumero.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\obj\Debug\net5.0\Game_AdivinarNumero.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\obj\Debug\net5.0\Game_AdivinarNumero.dll
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\obj\Debug\net5.0\ref\Game_AdivinarNumero.dll
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\obj\Debug\net5.0\Game_AdivinarNumero.pdb
+C:\Users\USER\Desktop\C#\Game_AdivinarNumero\Game_AdivinarNumero\obj\Debug\net5.0\Game_AdivinarNumero.genruntimeconfig.cache

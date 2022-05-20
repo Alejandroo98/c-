@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\bin\Debug\net5.0\Inyeccion_dependenciasYT.exe
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\bin\Debug\net5.0\Inyeccion_dependenciasYT.deps.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\bin\Debug\net5.0\Inyeccion_dependenciasYT.runtimeconfig.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\bin\Debug\net5.0\Inyeccion_dependenciasYT.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\bin\Debug\net5.0\Inyeccion_dependenciasYT.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\bin\Debug\net5.0\ref\Inyeccion_dependenciasYT.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\bin\Debug\net5.0\Inyeccion_dependenciasYT.pdb
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\obj\Debug\net5.0\Inyeccion_dependenciasYT.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\obj\Debug\net5.0\Inyeccion_dependenciasYT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\obj\Debug\net5.0\Inyeccion_dependenciasYT.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\obj\Debug\net5.0\Inyeccion_dependenciasYT.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\obj\Debug\net5.0\Inyeccion_dependenciasYT.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\obj\Debug\net5.0\Inyeccion_dependenciasYT.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\obj\Debug\net5.0\ref\Inyeccion_dependenciasYT.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\obj\Debug\net5.0\Inyeccion_dependenciasYT.pdb
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Inyeccion_dependenciasYT_solucion\Inyeccion_dependenciasYT\obj\Debug\net5.0\Inyeccion_dependenciasYT.genruntimeconfig.cache

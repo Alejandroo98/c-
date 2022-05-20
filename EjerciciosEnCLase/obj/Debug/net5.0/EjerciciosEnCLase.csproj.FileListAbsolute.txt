@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\EjerciciosEnCLase\bin\Debug\net5.0\EjerciciosEnCLase.exe
+C:\Users\USER\Desktop\EjerciciosEnCLase\bin\Debug\net5.0\EjerciciosEnCLase.deps.json
+C:\Users\USER\Desktop\EjerciciosEnCLase\bin\Debug\net5.0\EjerciciosEnCLase.runtimeconfig.json
+C:\Users\USER\Desktop\EjerciciosEnCLase\bin\Debug\net5.0\EjerciciosEnCLase.runtimeconfig.dev.json
+C:\Users\USER\Desktop\EjerciciosEnCLase\bin\Debug\net5.0\EjerciciosEnCLase.dll
+C:\Users\USER\Desktop\EjerciciosEnCLase\bin\Debug\net5.0\ref\EjerciciosEnCLase.dll
+C:\Users\USER\Desktop\EjerciciosEnCLase\bin\Debug\net5.0\EjerciciosEnCLase.pdb
+C:\Users\USER\Desktop\EjerciciosEnCLase\obj\Debug\net5.0\EjerciciosEnCLase.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\EjerciciosEnCLase\obj\Debug\net5.0\EjerciciosEnCLase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\EjerciciosEnCLase\obj\Debug\net5.0\EjerciciosEnCLase.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\EjerciciosEnCLase\obj\Debug\net5.0\EjerciciosEnCLase.AssemblyInfo.cs
+C:\Users\USER\Desktop\EjerciciosEnCLase\obj\Debug\net5.0\EjerciciosEnCLase.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EjerciciosEnCLase\obj\Debug\net5.0\EjerciciosEnCLase.dll
+C:\Users\USER\Desktop\EjerciciosEnCLase\obj\Debug\net5.0\ref\EjerciciosEnCLase.dll
+C:\Users\USER\Desktop\EjerciciosEnCLase\obj\Debug\net5.0\EjerciciosEnCLase.pdb
+C:\Users\USER\Desktop\EjerciciosEnCLase\obj\Debug\net5.0\EjerciciosEnCLase.genruntimeconfig.cache

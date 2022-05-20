@@ -1,0 +1,38 @@
+﻿@model IEnumerable<WebApp_MDV.Entidades.Mountain>
+@using WebApp_MDV.Entidades;
+
+@{
+    ViewData["Title"] = "Lista de montañas";
+}
+
+    <h1>@ViewData["Title"]</h1>
+
+    <a class="btn btn-outline-dark mb-4" href="mountains/create">Registrar montaña</a>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-danger" role="alert">
+            No hay montañas registradas
+        </div>
+    }
+    else
+    {
+
+        <table class="table table-dark">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Altitud</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Mountain mountain in Model)
+                {
+                    <tr>
+                        <td>@(mountain.Nombre)</td>
+                        <td>@(mountain.Altitiud)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }

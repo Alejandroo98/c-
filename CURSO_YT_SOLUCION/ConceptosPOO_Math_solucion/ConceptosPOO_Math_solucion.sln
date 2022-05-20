@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptosPOO_Math", "ConceptosPOO_Math\ConceptosPOO_Math.csproj", "{B63092B8-7951-4CA0-A9F6-D498DE091561}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63092B8-7951-4CA0-A9F6-D498DE091561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63092B8-7951-4CA0-A9F6-D498DE091561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63092B8-7951-4CA0-A9F6-D498DE091561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63092B8-7951-4CA0-A9F6-D498DE091561}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84F3C212-B185-4E2E-8565-07ABF4AB80FA}
+	EndGlobalSection
+EndGlobal

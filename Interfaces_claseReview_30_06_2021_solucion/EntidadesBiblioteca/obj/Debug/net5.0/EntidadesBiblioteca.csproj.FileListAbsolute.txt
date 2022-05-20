@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\EntidadesBiblioteca\bin\Debug\net5.0\EntidadesBiblioteca.deps.json
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\EntidadesBiblioteca\bin\Debug\net5.0\EntidadesBiblioteca.dll
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\EntidadesBiblioteca\bin\Debug\net5.0\ref\EntidadesBiblioteca.dll
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\EntidadesBiblioteca\bin\Debug\net5.0\EntidadesBiblioteca.pdb
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\EntidadesBiblioteca\obj\Debug\net5.0\EntidadesBiblioteca.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\EntidadesBiblioteca\obj\Debug\net5.0\EntidadesBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\EntidadesBiblioteca\obj\Debug\net5.0\EntidadesBiblioteca.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\EntidadesBiblioteca\obj\Debug\net5.0\EntidadesBiblioteca.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\EntidadesBiblioteca\obj\Debug\net5.0\EntidadesBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\EntidadesBiblioteca\obj\Debug\net5.0\EntidadesBiblioteca.dll
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\EntidadesBiblioteca\obj\Debug\net5.0\ref\EntidadesBiblioteca.dll
+C:\Users\USER\Desktop\C#\Interfaces_claseReview_30_06_2021_solucion\EntidadesBiblioteca\obj\Debug\net5.0\EntidadesBiblioteca.pdb

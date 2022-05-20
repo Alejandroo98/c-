@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\bin\Debug\net5.0\Constructor_POO.exe
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\bin\Debug\net5.0\Constructor_POO.deps.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\bin\Debug\net5.0\Constructor_POO.runtimeconfig.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\bin\Debug\net5.0\Constructor_POO.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\bin\Debug\net5.0\Constructor_POO.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\bin\Debug\net5.0\ref\Constructor_POO.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\bin\Debug\net5.0\Constructor_POO.pdb
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\obj\Debug\net5.0\Constructor_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\obj\Debug\net5.0\Constructor_POO.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\obj\Debug\net5.0\Constructor_POO.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\obj\Debug\net5.0\Constructor_POO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\obj\Debug\net5.0\Constructor_POO.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\obj\Debug\net5.0\ref\Constructor_POO.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\obj\Debug\net5.0\Constructor_POO.pdb
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\obj\Debug\net5.0\Constructor_POO.genruntimeconfig.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\Constructor_POO_solucion\Constructor_POO\obj\Debug\net5.0\Constructor_POO.csproj.AssemblyReference.cache

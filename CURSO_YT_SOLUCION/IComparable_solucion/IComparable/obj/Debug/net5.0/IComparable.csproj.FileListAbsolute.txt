@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\bin\Debug\net5.0\IComparable.exe
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\bin\Debug\net5.0\IComparable.deps.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\bin\Debug\net5.0\IComparable.runtimeconfig.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\bin\Debug\net5.0\IComparable.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\bin\Debug\net5.0\IComparable.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\bin\Debug\net5.0\ref\IComparable.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\bin\Debug\net5.0\IComparable.pdb
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\obj\Debug\net5.0\IComparable.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\obj\Debug\net5.0\IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\obj\Debug\net5.0\IComparable.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\obj\Debug\net5.0\IComparable.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\obj\Debug\net5.0\IComparable.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\obj\Debug\net5.0\IComparable.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\obj\Debug\net5.0\ref\IComparable.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\obj\Debug\net5.0\IComparable.pdb
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\IComparable_solucion\IComparable\obj\Debug\net5.0\IComparable.genruntimeconfig.cache

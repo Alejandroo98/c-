@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Prueba_16_07_2021_solucion\Prueba_16_07_2021\bin\Debug\Prueba_16_07_2021.exe.config
+C:\Users\USER\Desktop\Prueba_16_07_2021_solucion\Prueba_16_07_2021\bin\Debug\Prueba_16_07_2021.exe
+C:\Users\USER\Desktop\Prueba_16_07_2021_solucion\Prueba_16_07_2021\bin\Debug\Prueba_16_07_2021.pdb
+C:\Users\USER\Desktop\Prueba_16_07_2021_solucion\Prueba_16_07_2021\obj\Debug\Prueba_16_07_2021.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Prueba_16_07_2021_solucion\Prueba_16_07_2021\obj\Debug\Prueba_16_07_2021.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Prueba_16_07_2021_solucion\Prueba_16_07_2021\obj\Debug\Prueba_16_07_2021.exe
+C:\Users\USER\Desktop\Prueba_16_07_2021_solucion\Prueba_16_07_2021\obj\Debug\Prueba_16_07_2021.pdb

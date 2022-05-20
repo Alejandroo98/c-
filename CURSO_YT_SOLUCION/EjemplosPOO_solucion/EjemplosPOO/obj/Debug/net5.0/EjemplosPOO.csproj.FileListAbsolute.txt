@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\bin\Debug\net5.0\EjemplosPOO.exe
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\bin\Debug\net5.0\EjemplosPOO.deps.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\bin\Debug\net5.0\EjemplosPOO.runtimeconfig.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\bin\Debug\net5.0\EjemplosPOO.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\bin\Debug\net5.0\EjemplosPOO.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\bin\Debug\net5.0\ref\EjemplosPOO.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\bin\Debug\net5.0\EjemplosPOO.pdb
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\obj\Debug\net5.0\EjemplosPOO.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\obj\Debug\net5.0\EjemplosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\obj\Debug\net5.0\EjemplosPOO.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\obj\Debug\net5.0\EjemplosPOO.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\obj\Debug\net5.0\EjemplosPOO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\obj\Debug\net5.0\EjemplosPOO.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\obj\Debug\net5.0\ref\EjemplosPOO.dll
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\obj\Debug\net5.0\EjemplosPOO.pdb
+C:\Users\USER\Desktop\C#\CURSO_YT_SOLUCION\EjemplosPOO_solucion\EjemplosPOO\obj\Debug\net5.0\EjemplosPOO.genruntimeconfig.cache

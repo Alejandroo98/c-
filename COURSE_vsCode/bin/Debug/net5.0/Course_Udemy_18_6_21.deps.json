@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Course_Udemy_18_6_21/1.0.0": {
+        "runtime": {
+          "Course_Udemy_18_6_21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Course_Udemy_18_6_21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
